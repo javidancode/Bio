@@ -1,0 +1,4 @@
+name surname:Javidan Gadirli
+age:17
+education:Cod Academy
+region:baku
